@@ -2873,29 +2873,29 @@
 /* Intro */
 
 	#intro {
-		background: url("images/standinginline.jpg"), url("../../images/intro.jpg");
-		background-size: cover, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
-		background-repeat: no-repeat;, no-repeat;
+		background: url("images/standinginline.jpg");
+		background-size: cover;
+		background-attachment: fixed;
+		background-position: top left;
+		background-repeat: no-repeat;
 	}
 
 /* One */
 
 	#one {
-		background: url("images/AboutUs.jpg"), url("../../images/one.jpg");
-		background-size: cover, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url("images/AboutUs.jpg");
+		background-size: cover;
+		background-attachment: fixed;
+		background-position: top left;
 	}
 
 /* Two */
 
 	#two {
-		background: url("images/Press.jpg"), url("../../images/two.jpg");
-		background-size: cover, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url("images/Press.jpg");
+		background-size: cover;
+		background-attachment: fixed;
+		background-position: top left;
 	}
 
 /* Work */
